@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Marko Djuric, self-taught frontend developer. I am coming from Serbia.
-- 👀 I’m interested in learning new and improving my current frontend programming knowledge.
+- 👋 Hi, I’m Marko Djuric, self-taught MERN Stack Developer. I am coming from Serbia.
+- 👀 I’m interested in learning new and improving my current programming knowledge.
 - 🌱 This is the place where I'll be posting the projects I'll be working on.
 - 📫 How to reach me: https://markodju.netlify.app/
 
